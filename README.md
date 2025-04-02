@@ -25,4 +25,4 @@
 |Ile osób uznało opinię za przydatną|likes|span[id^='votes-yes']|
 |Ile osób uznało opinię za nieprzydatna|dislikes|span[id^='votes-no']|
 |Data wystawienia opinii|publish_date|span.user-post__published > time:nth-child(1)['datetime']|
-|Data zakupu produktu|purchase_date|span.user-post__published > time:nth-child(1)['datetime']|
+|Data zakupu produktu|purchase_date|span.user-post__published > time:nth-child(2)['datetime']|
